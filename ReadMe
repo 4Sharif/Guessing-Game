@@ -1,0 +1,8 @@
+This program randomly generates a three digit number. The 
+user has eight tries to guess the code. After each guess, 
+the program gives feedback on if the number is too high/low, 
+how many digits are correct and in the correct position, and 
+how many are correct but in the wrong position. The user can 
+quit by entering q. Three function prototypes will be above 
+the main function and their full bodies will be on the bottom
+of the file.

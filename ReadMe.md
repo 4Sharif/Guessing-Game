@@ -1,7 +1,5 @@
 # Guessing Game
 
-A simple terminal-based number guessing game written in C.
-
 The program randomly generates a three-digit code using digits between 0 and 9. The user has eight tries to guess the correct number. After each attempt, the program provides hints indicating whether the guess is too high or too low, how many digits are correct and in the correct position, and how many are correct but in the wrong position. The game can be exited early by entering `q`.
 
 ---
